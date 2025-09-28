@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+transformers==4.35.0
+# Rolling back Torch to a version known to be stable with recent Python versions
+torch==2.1.0 
+numpy==1.26.4
+gTTS==2.4.0
+whisper
+python-multipart==0.0.6

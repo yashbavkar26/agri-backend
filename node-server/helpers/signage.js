@@ -24,4 +24,4 @@ function verifySignature(signedPackage) {
   return verify.verify(publicKey, signedPackage.signature, 'base64');
 }
 
-module.exports = { signPayload, verifySignature };~
+module.exports = { signPayload, verifySignature };

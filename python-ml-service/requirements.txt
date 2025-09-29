@@ -1,9 +1,9 @@
-fastapi==0.95.2
-uvicorn[standard]==0.22.0
-sentence-transformers==2.2.2
-faiss-cpu==1.7.4
-transformers==4.35.0
-torch==2.2.0
-gTTS==2.4.0
+fastapi
+uvicorn[standard]
+sentence-transformers
+faiss-cpu
+transformers
+torch
+gTTS
 whisper
-python-multipart==0.0.6
+python-multipart
